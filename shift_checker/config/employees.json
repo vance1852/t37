@@ -1,0 +1,94 @@
+[
+  {
+    "employee_id": "E001",
+    "employee_name": "张三",
+    "aliases": [
+      "张三",
+      "张  三",
+      "zhangsan"
+    ],
+    "position": "店员",
+    "hourly_rate": 25.0,
+    "is_minor": false,
+    "is_pregnant": false,
+    "store": "旗舰店"
+  },
+  {
+    "employee_id": "E002",
+    "employee_name": "李四",
+    "aliases": [
+      "李四",
+      "李  四",
+      "lisi"
+    ],
+    "position": "收银员",
+    "hourly_rate": 28.0,
+    "is_minor": false,
+    "is_pregnant": false,
+    "store": "旗舰店"
+  },
+  {
+    "employee_id": "E003",
+    "employee_name": "王五",
+    "aliases": [
+      "王五",
+      "王  五"
+    ],
+    "position": "店长",
+    "hourly_rate": 35.0,
+    "is_minor": false,
+    "is_pregnant": false,
+    "store": "旗舰店"
+  },
+  {
+    "employee_id": "E004",
+    "employee_name": "赵六",
+    "aliases": [
+      "赵六",
+      "赵  六",
+      "zhaoliu"
+    ],
+    "position": "店员",
+    "hourly_rate": 22.0,
+    "is_minor": true,
+    "is_pregnant": false,
+    "store": "分店A"
+  },
+  {
+    "employee_id": "E005",
+    "employee_name": "孙七",
+    "aliases": [
+      "孙七",
+      "孙  七"
+    ],
+    "position": "店员",
+    "hourly_rate": 25.0,
+    "is_minor": false,
+    "is_pregnant": true,
+    "store": "分店A"
+  },
+  {
+    "employee_id": "E006",
+    "employee_name": "周八",
+    "aliases": [
+      "周八"
+    ],
+    "position": "收银员",
+    "hourly_rate": 28.0,
+    "is_minor": false,
+    "is_pregnant": false,
+    "store": "分店B"
+  },
+  {
+    "employee_id": "E007",
+    "employee_name": "吴九",
+    "aliases": [
+      "吴九"
+    ],
+    "position": "店员",
+    "hourly_rate": 25.0,
+    "is_minor": false,
+    "is_pregnant": false,
+    "store": "分店B"
+  }
+]

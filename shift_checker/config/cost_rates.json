@@ -1,0 +1,10 @@
+{
+  "weekday_multiplier": 1.0,
+  "weekend_multiplier": 1.5,
+  "holiday_multiplier": 3.0,
+  "overtime_multiplier": 1.5,
+  "weekend_overtime_multiplier": 2.0,
+  "holiday_overtime_multiplier": 3.0,
+  "standard_daily_hours": 8.0,
+  "standard_weekly_hours": 40.0
+}

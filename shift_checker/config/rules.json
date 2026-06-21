@@ -1,0 +1,18 @@
+{
+  "min_rest_hours": 11,
+  "max_consecutive_days": 6,
+  "weekly_overtime_threshold": 40,
+  "monthly_overtime_threshold": 36,
+  "night_shift_end_hour": 6,
+  "early_shift_start_hour": 8,
+  "minor_max_daily_hours": 8,
+  "minor_forbidden_shifts": [
+    "C",
+    "晚"
+  ],
+  "pregnant_forbidden_shifts": [
+    "C",
+    "晚"
+  ],
+  "pregnant_max_daily_hours": 8
+}

@@ -1,0 +1,58 @@
+{
+  "A": {
+    "start": "09:00",
+    "end": "17:00",
+    "label": "早班",
+    "hours": 8.0
+  },
+  "B": {
+    "start": "13:00",
+    "end": "21:00",
+    "label": "中班",
+    "hours": 8.0
+  },
+  "C": {
+    "start": "21:00",
+    "end": "05:00",
+    "label": "晚班",
+    "hours": 8.0,
+    "overnight": true
+  },
+  "D": {
+    "start": "09:00",
+    "end": "13:00",
+    "label": "半天班",
+    "hours": 4.0
+  },
+  "OFF": {
+    "start": null,
+    "end": null,
+    "label": "休息",
+    "hours": 0
+  },
+  "早": {
+    "start": "09:00",
+    "end": "17:00",
+    "label": "早班",
+    "hours": 8.0
+  },
+  "中": {
+    "start": "13:00",
+    "end": "21:00",
+    "label": "中班",
+    "hours": 8.0
+  },
+  "晚": {
+    "start": "21:00",
+    "end": "05:00",
+    "label": "晚班",
+    "hours": 8.0,
+    "overnight": true
+  },
+  "休": {
+    "start": null,
+    "end": null,
+    "label": "休息",
+    "hours": 0
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "employee_id": [
+    "员工号",
+    "工号",
+    "员工编号",
+    "EmpID",
+    "emp_id",
+    "ID"
+  ],
+  "employee_name": [
+    "姓名",
+    "员工姓名",
+    "名字",
+    "Name",
+    "name"
+  ],
+  "store": [
+    "门店",
+    "店名",
+    "门店名称",
+    "Store",
+    "store"
+  ],
+  "date": [
+    "日期",
+    "排班日期",
+    "上班日期",
+    "Date",
+    "date",
+    "工作日"
+  ],
+  "shift": [
+    "班次",
+    "排班",
+    "班别",
+    "Shift",
+    "shift",
+    "班次代码"
+  ],
+  "start_time": [
+    "上班时间",
+    "开始时间",
+    "签到",
+    "StartTime",
+    "start_time"
+  ],
+  "end_time": [
+    "下班时间",
+    "结束时间",
+    "签退",
+    "EndTime",
+    "end_time"
+  ],
+  "remark": [
+    "备注",
+    "说明",
+    "Remark",
+    "remark"
+  ]
+}
